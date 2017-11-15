@@ -4,9 +4,17 @@
 	width: 100%;
 }
 
+.thumbnailProjects{
+	border-radius: 100%;
+}
+
 .container
 {
 	width: 95%;
+}
+
+div.panel.panel-default {
+	margin: 0.5%;
 }
 
 #projects, #about, #exp, #contact
