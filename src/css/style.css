@@ -1,0 +1,36 @@
+#profilePicture
+{
+	border-radius: 100%;
+	width: 100%;
+}
+
+.thumbnailProjects{
+	border-radius: 100%;
+}
+
+.container
+{
+	width: 95%;
+}
+
+div.panel.panel-default {
+	margin: 0.5%;
+}
+
+#projects, #about, #exp, #contact
+{
+	border: 5px solid;
+	margin: 10px;
+	height: 1000px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+ul.nav-pills
+{
+	position: fixed;
+	width: 15%;
+}
